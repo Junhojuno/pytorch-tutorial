@@ -4,4 +4,5 @@
 
 
 ### References
-  - [Multi-GPU / Distributed Learning(1)](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+  - [Multi-GPU / Distributed Learning(1)](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
+  - [Multi-GPU / Distributed Learning(2)](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
