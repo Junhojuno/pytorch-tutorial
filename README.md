@@ -9,4 +9,4 @@
   - [Multi-GPU / Distributed Learning(3) : Pytorch multi-GPU post](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 
 ### Pytorch-Lightning References
-  - [converting : From Pytorch to Pytorch Lightning](https://www.youtube.com/watch?v=DbESHcCoWbM&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2&index=3)
+  - [traininig process : From Pytorch to Pytorch Lightning](https://www.youtube.com/watch?v=DbESHcCoWbM&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2&index=3)
