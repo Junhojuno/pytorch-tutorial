@@ -1,4 +1,4 @@
-# Pytorch & Pytorch-Lightning
+# Pytorch & Pytorch-Lightning Tutorial
   - pytorch & pytorch-lightning basic pipeline tutorial
   - build baselines on various tasks
 
