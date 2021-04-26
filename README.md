@@ -1,6 +1,6 @@
 # Pytorch & Pytorch-Lightning Tutorial
-  - pytorch & pytorch-lightning basic pipeline tutorial.
-  - build baselines on various tasks.
+  - pytorch & pytorch-lightning basic pipeline tutorial
+  - build baselines on various tasks
 
 
 ### Pytorch References
