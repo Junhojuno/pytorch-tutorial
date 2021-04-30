@@ -10,5 +10,5 @@
 
 ### Pytorch-Lightning References
   - [(video)traininig process : From Pytorch to Pytorch Lightning](https://www.youtube.com/watch?v=DbESHcCoWbM&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2&index=3)
-  - [Pytorch-Lightning Tutorial](https://pytorch-lightning.readthedocs.io/en/latest/starter/new-project.html
+  - [Pytorch-Lightning Tutorial](https://pytorch-lightning.readthedocs.io/en/latest/starter/new-project.html)
   - [Project Template](https://github.com/PyTorchLightning/deep-learning-project-template/blob/master/project/lit_image_classifier.py)
