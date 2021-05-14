@@ -10,7 +10,7 @@
   - [Multi-GPU / Distributed Learning(4) : Writing distributed application with pytorch](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
   - [Multi-GPU / Distributed Learning(5) : Example of Distributed Learning with ImageNet](https://github.com/pytorch/examples/blob/master/imagenet/main.py)
   - [Multi-GPU / Distributed Learning(5) : Another Distributed Learning Example](https://github.com/tczhangzhi/pytorch-distributed/blob/master/distributed.py)
-  - [Input Pipeline example](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+  - [Input Pipeline > DataLoader example](https://d2.naver.com/helloworld/3773258)
   
 ### Pytorch-Lightning References
   - [(video)traininig process : From Pytorch to Pytorch Lightning](https://www.youtube.com/watch?v=DbESHcCoWbM&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2&index=3)
