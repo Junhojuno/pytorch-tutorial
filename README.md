@@ -10,6 +10,7 @@
   - [Multi-GPU / Distributed Learning(4) : Writing distributed application with pytorch](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
   - [Multi-GPU / Distributed Learning(5) : Example of Distributed Learning with ImageNet](https://github.com/pytorch/examples/blob/master/imagenet/main.py)
   - [Multi-GPU / Distributed Learning(5) : Another Distributed Learning Example](https://github.com/tczhangzhi/pytorch-distributed/blob/master/distributed.py)
+  - [Custom Dataloader](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
   - [Input Pipeline > DataLoader example](https://d2.naver.com/helloworld/3773258)
   - [nn.Module, optim, control flow + weight sharing..](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
   
